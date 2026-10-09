@@ -4,16 +4,16 @@ A multi-page fan and community website inspired by **Tharun Speaks**, designed t
 
 ## 🌐 Live Website
 
-**Live Demo:**(https://tharun-speaks-website-1.onrender.com)
+**Live Demo:** [Tharun Speaks Website](https://tharun-speaks-website-1.onrender.com)
 
 ## ✨ Features
 
 - **Home Page:** Introduction to the creator and featured content.
-- **Content Page:** A dedicated space to explore content and discover videos.
-- **Join Community:** A form for visitors to submit their name, email address, and favourite content category.
+- **Content Page:** Explore content and discover videos.
+- **Join Community:** A form to submit a name, email address, and favourite content category.
 - **Backend Integration:** Form submissions are processed through a Node.js and Express API.
 - **Database Storage:** MongoDB Atlas stores community registration details.
-- **Responsive Design:** Styling designed to provide a consistent experience across screen sizes.
+- **Responsive Design:** A layout designed for different screen sizes.
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,7 @@ A multi-page fan and community website inspired by **Tharun Speaks**, designed t
 | Node.js | Server-side runtime |
 | Express.js | Backend API and static file serving |
 | MongoDB Atlas | Cloud database |
-| Git & GitHub | Version control and source code management |
+| Git and GitHub | Version control |
 | Render | Website hosting |
 
 ## 📁 Project Structure
@@ -50,8 +50,9 @@ tharun_speaks_website/
 ## ⚙️ Run Locally
 
 ### Prerequisites
+
 - Node.js and npm
-- A MongoDB Atlas account and database connection string
+- A MongoDB Atlas account and connection string
 
 ### Installation
 
