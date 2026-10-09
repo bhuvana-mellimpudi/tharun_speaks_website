@@ -4,7 +4,7 @@ A multi-page fan and community website inspired by **Tharun Speaks**, designed t
 
 ## 🌐 Live Website
 
-**Live Demo:** [Add your Render URL here]
+**Live Demo:**(https://tharun-speaks-website-1.onrender.com)
 
 ## ✨ Features
 
